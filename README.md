@@ -19,7 +19,7 @@ If you use this dataset in your research, please cite the following paper:
   year={2024},
   publisher={Association for Computing Machinery},
   address={New York, NY, USA},
-  numpages={18},
+  numpages={25},
   series = {CHI '24}
 }
 ```
