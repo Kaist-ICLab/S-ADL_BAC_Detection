@@ -9,6 +9,21 @@ Abstract: In public health and safety, precise detection of blood alcohol concen
 
 Dataset URL: https://drive.google.com/drive/folders/0ACdSkIenytC8Uk9PVA 
 
+## Citation
+If you use this dataset in your research, please cite the following paper:
+```
+@inproceedings{lee2024s,
+  title={S-ADL: Exploring Smartphone-based Activities of Daily Living to Detect Blood Alcohol Concentration in a Controlled Environment},
+  author={Lee, Hansoo and Kim, Auk and Bae, SangWon and Lee, Uichin},
+  booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems},
+  year={2024},
+  publisher={Association for Computing Machinery},
+  address={New York, NY, USA},
+  numpages={18},
+  series = {CHI '24}
+}
+```
+
 ## Environment
 We have run this code under the environment as below:
 * OS: Ubuntu 20.04 installed with Windows Subsystem for Linux (WSL)
