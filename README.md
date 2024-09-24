@@ -7,7 +7,7 @@ This repository is for supplementary codes used to explore and analyze the S-ADL
 
 Abstract: In public health and safety, precise detection of blood alcohol concentration (BAC) plays a critical role in implementing responsive interventions that can save lives. While previous research has primarily focused on computer-based or neuropsychological tests for BAC identification, the potential use of daily smartphone activities for BAC detection in real-life scenarios remains largely unexplored. Drawing inspiration from Instrumental Activities of Daily Living (I-ADL), our hypothesis suggests that Smartphone-based Activities of Daily Living (S-ADL) can serve as a viable method for identifying BAC. In our proof-of-concept study, we propose, design, and assess the feasibility of using S-ADLs to detect BAC in a scenario-based controlled laboratory experiment involving 40 young adults. In this study, we identify key S-ADL metrics, such as delayed texting in SMS, site searching, and finance management, that significantly contribute to BAC detection (with an AUC-ROC and accuracy of 81%). We further discuss potential real-life applications of the proposed BAC model.
 
-Dataset URL: https://drive.google.com/drive/folders/0ACdSkIenytC8Uk9PVA 
+Raw Dataset URL: https://drive.google.com/drive/folders/0ACdSkIenytC8Uk9PVA 
 
 ## Citation
 If you use this dataset in your research, please cite the following paper:
