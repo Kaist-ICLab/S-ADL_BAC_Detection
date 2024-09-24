@@ -36,7 +36,7 @@ We have run this code under the environment as below:
 In addition, you need to install [conda](https://conda.io/projects/conda/en/latest/index.html#) for managing packages and virtual environment.
 
 ## HOW-TO
-* Step 1: FData Preprocessing
+* Step 1: Data Preprocessing
     * Smartphone Data Preprocessing
     * BAC Label Data Preprocessing
     * CNT Data Preprocessing
