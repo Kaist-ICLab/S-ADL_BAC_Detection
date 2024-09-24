@@ -39,6 +39,7 @@ In addition, you need to install [conda](https://conda.io/projects/conda/en/late
 * Step 1: First Data Preprocessing Process
     * Smartphone Data Preprocessing
     * BAC Label Data Preprocessing
+    * CNT Data Preprocessing
 * Step 2: Feature Extraction Process
   
 * Step 3: ML model Building Process
