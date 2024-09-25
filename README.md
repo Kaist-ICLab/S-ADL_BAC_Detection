@@ -1,6 +1,6 @@
-# S-ADL_BAC_Detection Supplementary Codes
+# S-ADL_BAC_Detection Supplementary Dataset and Codes
 
-This repository is for supplementary codes used to explore and analyze the S-ADL Code and Dataset.
+This repository is for supplementary Datasets and codes used to explore and analyze S-ADL-based BAC detection.
 
 * Description of the paper and dataset: https://doi.org/10.1145/3613904.3642832
   * Hansoo Lee, Auk Kim, SangWon Bae, and Uichin Lee. 2024. S-ADL: Exploring Smartphone-based Activities of Daily Living to Detect Blood Alcohol Concentration in a Controlled Environment. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 1005, 1–25. https://doi.org/10.1145/3613904.3642832
