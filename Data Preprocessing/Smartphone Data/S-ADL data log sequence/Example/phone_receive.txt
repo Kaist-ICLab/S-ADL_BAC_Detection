@@ -1,0 +1,9 @@
+2021-08-11T11:18:00.000Z
+2021-08-11T15:29:00.000Z
+MESSAGE-INBOX
+notification-com.samsung.android.messaging-True
+APP_USAGE_EVENT-com.samsung.android.messaging-ACTIVITY_RESUMED
+CALL_LOG-REJECTED
+notification-com.samsung.android.incallui-True
+MESSAGE-SENT
+APP_USAGE_EVENT-com.samsung.android.messaging-ACTIVITY_PAUSED

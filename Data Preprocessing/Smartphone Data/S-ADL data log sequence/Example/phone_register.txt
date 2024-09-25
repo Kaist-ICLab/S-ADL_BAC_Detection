@@ -1,0 +1,22 @@
+2021-08-11T11:18:00.000Z
+2021-08-11T11:26:00.000Z
+count, offsetTimestamp, timestamp, value, datumType
+notification-True
+DEVICE_EVENT-SCREEN_ON
+DEVICE_EVENT-USER_PRESENT
+APP_USAGE_EVENT-com.samsung.android.messaging-ACTIVITY_RESUMED
+APP_USAGE_EVENT-com.samsung.android.messaging-ACTIVITY_PAUSED
+APP_USAGE_EVENT-com.samsung.android.app.contacts-ACTIVITY_RESUMED
+APP_USAGE_EVENT-com.samsung.android.app.contacts-ACTIVITY_PAUSED
+APP_USAGE_EVENT-com.samsung.android.messaging-ACTIVITY_RESUMED
+APP_USAGE_EVENT-com.samsung.android.messaging-ACTIVITY_PAUSED
+APP_USAGE_EVENT-com.android.server.telecom-ACTIVITY_RESUMED
+CALL_LOG-OUTGOING
+APP_USAGE_EVENT-com.android.server.telecom-ACTIVITY_PAUSED
+APP_USAGE_EVENT-com.samsung.android.messaging-ACTIVITY_RESUMED
+APP_USAGE_EVENT-com.samsung.android.messaging-ACTIVITY_PAUSED
+APP_USAGE_EVENT-com.samsung.android.incallui-ACTIVITY_RESUMED
+notification-True
+APP_USAGE_EVENT-com.samsung.android.incallui-ACTIVITY_PAUSED
+APP_USAGE_EVENT-com.samsung.android.messaging-ACTIVITY_RESUMED
+APP_USAGE_EVENT-com.samsung.android.messaging-ACTIVITY_PAUSED
